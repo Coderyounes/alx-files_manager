@@ -1,0 +1,8 @@
+class RedisClient {
+    constructor() {
+
+    }
+
+    isAlive()
+    
+};
